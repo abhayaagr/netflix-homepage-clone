@@ -23,7 +23,7 @@ This project was developed to:
   - git clone https://github.com/abhayaagr/netflix-homepage-clone.git
 - Open the index.html file in any web browser to view the cloned homepage.
 
-#Acknowledgments
+# Acknowledgments
 This project is for educational purposes only and does not intend to infringe on Netflix's copyrights or trademarks. All trademarks and copyrights are the property of their respective owners.
 
 # Future Enhancements
